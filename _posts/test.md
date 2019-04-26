@@ -1,5 +1,32 @@
 ---
 layout: post
-title: test
+title: They walk with me
 ---
-### test
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 28.0px; font: 12.0px 'Times New Roman'; color: #2c1c14; -webkit-text-stroke: #2c1c14}
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 23.0px; font: 12.0px 'Times New Roman'; color: #000000; -webkit-text-stroke: #000000; min-height: 15.0px}
+p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; line-height: 23.0px; font: 12.0px 'Times New Roman'; color: #000000; -webkit-text-stroke: #000000}
+p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 23.0px; font: 12.0px 'Times New Roman'; color: #000000; -webkit-text-stroke: #000000}
+p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; line-height: 23.0px; font: 12.0px 'Times New Roman'; color: #000000; -webkit-text-stroke: #000000}
+span.s1 {font-kerning: none}
+
+THEY WALK WITH ME
+
+The first time I reached an altitude of 12,000 feet I felt as if my head was on the verge of explosion. In 2009, my father and I set out to summit the highest peak in the continental United States­-- Mount Whitney. After two days of backpacking with elevation gains of over 4,000 feet, the altitude began to affect me. My head pounded, my vision blurred, and I was overcome with nausea. It frustrated me that others were able to sit up without seeing stars or feeling faint. Had it not been for a handful of Aspirin, even getting out of my sleeping bag would have been an impossible feat. 
+
+And yet, I loved it. The contradiction of the peaceful landscape of the Eastern Sierras and the storm within my body, my paralysis to do anything but address the needs of my physical self, the power of nature overwhelmed me. Everything that accompanies the complexity of these wildlands enthralled my young mind. Regardless, despite my love for these spaces, my body was having none of it. With only half a mile between my father and I and Mount Whitney’s summit, my pain became unbearable causing us to turn back. In an effort to settle my feeling of failure, my father suggested we promise each other that someday we would be back to conquer the mountain. 
+
+This was the one and only promise he never kept to me. 
+
+In the years after our attempt at Whitney, we summited Half Dome and took in views of the spectacular Yosemite Valley, we went for early morning runs in preparation for our-yet-to-be-planned second attempt, we backpacked on Santa Cruz Island. My bond with my father is rooted in these experiences, these intimate moments where he and I walked one foot in front of the other for hours-- where we exchanged jokes that only we thought were funny and discussed the overwhelming beauty of the world around us.
+
+In the spring of 2013, my father was diagnosed with stage four gastric cancer. I quickly realized that with a three percent survival rate for a year after diagnosis, my time with my father was fleeting. I immediately applied for all the necessary permits in the hopes that we would summit the mountain we had attempted so many years prior. In the back of my mind, I knew that I would be summiting alone. Come July, after three months of continuous chemotherapy and a failed surgery to remove the cancerous mass at the base of his throat, my father was in no state for an eighteen-mile trek up a mountain. But I made a promise to my father and I was set on fulfilling it. 
+
+On July 29, 2013, I called my father from 14,505 feet. With tears in my eyes and a deep bittersweet melancholy I have yet to experience again, I said "We did it". Beaming with pride and punctuated by a clear attempt at holding back tears, he responded "You did it". I had overcome the obstacle that had stood in our way all those years ago. With his support and words of encouragement, he was correct-- I had summited Mount Whitney. Like many journeys to come, this was the first path I walked alone. Nine months after his diagnosis, I watched as my father took his last breath. I held his hand as his spirit left this earth. There are images burned in the forefront of my mind that will follow me wherever I go. I have discussed topics that many people’s ears will never be privy to. Through my shaky and unforeseen transition from a girl who sought refuge in the arms of her father to a young woman whose arms became a space of comfort for the wet eyes of her siblings, I realized my strength. As I look to the future, I know that with every step I take I carry the wisdom and passion my father instilled in me. Over the course of my three-day trek on Mount Whitney, I felt empowered by my father’s love and belief that I was capable of conquering a feat that had previously conquered me. I hold the memories of my father dearly and know that while I no longer have his support physically, the strength he imparted upon me as a child will follow me through adulthood.
+
+**- - - - -**
+
+I wrote the above piece in December 2013. I titled it "_I Now Walk Alone_" and submitted it as my personal essay in my application to Cornell University. My father had died not 2 weeks before I penned the above essay. As someone to whom writing is a deeply reflective act, the exercise of drafting my personal essay was a means to begin to process my grief. In placing those words on the page in front of me, through the process of moving my fingers over the keys of my laptop, admitting the deep tragedy that had just shaken my life and being optimistic about my ability to see another season of life, I came to believe my ability to survive in a world without my father. Over the last five years, my journey of grief has carried me to other continents, it has propelled my legs for 26.2 miles, it has pulled me to cultivate a deeper sense of compassion within myself. But the most profound, and by far the most elementary, realization that losing my father has pushed me to is the recognition that I never walk alone. I am loved by an immense number of compassionate, driven humans that support me and encourage me to pursue the often-crazy feats that bring me joy. They hold me up and push me on; they refuse to let me walk alone. 
+
+On May 10, 2019, I will embark on a 2,485-mile adventure. Over 4.5 months I will cross the edges of the Mojave Desert, traverse the Eastern Sierra Nevadas, walk through the Trinity Alps, and climb the Cascade Range into Canada. Beginning on May 10, 2019, I will be hiking the Pacific Crest Trail in memoriam of my father. I hope to be able to update my blog while hiking, and I will most definitely be posting more in the months before I head for the hills. Right now, I am excited and nervous and I know I won't be walking all those miles alone.
+
+But seriously, let me know if you want to hike any of it with me. Please.
